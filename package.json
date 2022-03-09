@@ -1,0 +1,22 @@
+{
+  "name": "votingdapp",
+  "version": "1.0.0",
+  "description": "Decentraliz Voting application",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "npx truffle test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nobodyw/VotingDapp.git"
+  },
+  "author": "nobodyw",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nobodyw/VotingDapp/issues"
+  },
+  "homepage": "https://github.com/nobodyw/VotingDapp#readme"
+}
